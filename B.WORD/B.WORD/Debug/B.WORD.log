@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\bolon\source\repos\B.WORD\B.WORD\Source.cpp(109): warning C4715: BWordProcedure: значение возвращается не при всех путях выполнения
+  B.WORD.vcxproj -> C:\Users\bolon\source\repos\B.WORD\Debug\B.WORD.exe
